@@ -1,3 +1,15 @@
 div.sidebar {
   float: right;
 }
+img.third-p {
+  float: center;
+}
+img.second-p {
+  float: left;
+}
+img.first-p {
+  float: right;
+}
+img {
+  width: 500px;
+}
